@@ -1,5 +1,3 @@
-
-
 function blink() {
   document.getElementById("flashing").style.color = "red";
   setTimeout("green()", 100);
