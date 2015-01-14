@@ -1,0 +1,12 @@
+body{
+  margin: 0;
+  background-image: url(https://media.8chan.co/skeleton/src/1416505119675.gif);
+}
+h1{
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10px;
+  text-align: center;
+  font-family: 'Comic Sans MS';
+  font-size: 50px;
+}
